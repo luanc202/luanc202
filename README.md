@@ -32,7 +32,7 @@ type Experience struct {
 func main() {
 	workedWith := Experience{
 		Languages:      []Language{ Typescript, SQL },
-    Frameworks:    []Framework{ React, Nodejs, Express, Fastify, Prisma, SpringBoot, RubyOnRails },
+		Frameworks:    []Framework{ React, Nodejs, Express, Fastify, Prisma, SpringBoot, RubyOnRails },
 		Tooling:        []Tooling{ Docker, Git },
 		Infrastructure: []Infra{ Linux },
 	}
