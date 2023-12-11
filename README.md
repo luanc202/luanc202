@@ -1,25 +1,52 @@
-## Hello, I'm Luan Costa and these are my stats 😃
- <div>
-  <a href="https://github.com/luanc202">
+## Hello, I'm Luan and I create solutions with software.
+
+Preferably back-end oriented, dealing with abstractions is more fun to me.
+
+I also like reading software architecture books, such as The Mythical Man-Month and Clean Architecture.
+
+---
+
+- 🔧 I've worked with React, React Native and Nodejs with Typescript, and Docker, but I've also got some experience with Ruby on Rails, so something new is alwas welcome.
+- 📚 Currently studying Computer Engineering at UFMA.
+- 🌱 I'm always looking to build something new, so if you do have something working on, I'd love to hear about and take part in it, may it be a compiler or a web page.
+- 📜 A blog is coming soon, I promise.
+- 👟 Also I do like running and working out, I won't refuse if you invite me.
+- 📫 Reach me at my [Linkedin](https://www.linkedin.com/in/luancfalves/) 
+
+### Languages and Tools:
+
+```go
+const Languages := []string{ "Typescript", "Javascript", "Java", "Ruby", "SQL"}
+const Frameworks := []string{ "React", "React Native", "Nodejs", "Express", "Fastify", "Prisma", "Spring Boot", "Ruby on Rails" }
+const Tooling := []string{ "Docker", "Git" }
+const Infrastructure := []string{ "Linux" }
+
+type Experience struct {
+	Languages    []Language
+  Frameworks   []Framework
+	Tooling      []Tooling
+	Infrastructure []Infra
+	CloudProviders []CloudProvider
+}
+
+func main() {
+	workedWith := Experience{
+		Languages:      []Language{ Typescript, SQL },
+    Frameworks:    []Framework{ React, Nodejs, Express, Fastify, Prisma, SpringBoot, RubyOnRails },
+		Tooling:        []Tooling{ Docker, Git },
+		Infrastructure: []Infra{ Linux },
+	}
+
+	fmt.Println(workedWith)
+}
+```
+
+### Here are some fun numbers:
+
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanc202&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanc202&layout=compact&langs_count=16&theme=dark"/>
 <div>
  
- 
-## I am currently studying these technologies and languages 📚
-&nbsp;
- - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- - ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
-
-## Interested in learning 📚
-- ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## My setup uses
-- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  
- ## Contact Me ✉️
- 
-<div> 
-  <a href="https://www.linkedin.com/in/luancfalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[gmail]: https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white
